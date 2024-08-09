@@ -1,0 +1,3 @@
+[submodule "submodules/tinkerpop"]
+	path = submodules/tinkerpop
+	url = https://github.com/danielcweber/tinkerpop.git
