@@ -1,0 +1,1 @@
+A custom gremlin-server docker image with string IDs and graceful shutdown.
